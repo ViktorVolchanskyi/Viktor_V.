@@ -1,4 +1,4 @@
-<img  width=100% src="https://github.com/VikorVolchanskyi/ViktorVolchanskyi/blob/2f11e559d119b9bc4f36f3ce4abee6f4f7d252d7/Banner-Github-Victor.jpg" />
+<img  width=100% src="https://github.com/ViktorVolchanskyi/Viktor_V./blob/9092bffb64b5bf0c5c37d262f4dd05044b6d84bb/Banner-Github-Victor.jpg" />
 
 ### A skilled back-end developer with 5+ years of experience.:fire:
 Has strong competence in translating business needs into technical requirements. Experienced in leading and motivating teams.<br/>
